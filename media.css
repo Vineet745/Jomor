@@ -1,0 +1,395 @@
+@media (max-width:600px) {
+  .cursor{
+display: none;
+  }
+
+    section h1 {
+        font-size: 15vw;
+    }
+
+    section h3 {
+        margin-top: 10vw;
+    }
+
+    section h3 span {
+        font-size: 4vw;
+        letter-spacing: 0.1vw;
+
+    }
+
+    section p {
+        width: 90vw;
+        font-size: 4vw;
+    }
+
+    /* page2 */
+
+    .page2 .text1 {
+        position: absolute;
+        top: 26%;
+        right: 40%;
+        width: 100%;
+        height: 20%;
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    .page2 .text1 h1 {
+        color: white;
+        font-size: 13vw;
+        font-family: gilroy;
+        letter-spacing: 0.4vw;
+    }
+
+    .page2 .text2 {
+        position: absolute;
+        top: 26%;
+        right: 40%;
+        width: 100%;
+        height: 20%;
+        display: flex;
+        justify-content: flex-end;
+        z-index: 20;
+    }
+
+    .page2 .text2 h1 {
+        font-size: 13vw;
+        font-family: gilroy;
+        -webkit-text-stroke: 1px #fff;
+        color: transparent;
+        letter-spacing: 0.4vw;
+
+    }
+
+    .page2-right-part1 h1 {
+        display: none;
+    }
+
+    .page2-right-part2 h1 {
+        transform: rotate(0);
+        font-size: 30vw;
+    }
+
+    .circle {
+        background-color: rgb(21, 175, 123);
+        width: 100px;
+        height: 100px;
+    }
+
+    .circle h5 {
+        font-size: 2vw;
+    }
+
+    /* page3 */
+
+    .page3 .text1 {
+        position: absolute;
+        top: 26%;
+        right: 40%;
+        width: 100%;
+        height: 20%;
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    .page3 .text1 h1 {
+        color: white;
+        font-size: 11vw;
+        font-family: gilroy;
+        letter-spacing: 0.4vw;
+    }
+
+    .page3 .text2 {
+        position: absolute;
+        top: 26%;
+        right: 40%;
+        width: 100%;
+        height: 20%;
+        display: flex;
+        justify-content: flex-end;
+        z-index: 20;
+    }
+
+    .page3 .text2 h1 {
+        font-size: 11vw;
+        font-family: gilroy;
+        -webkit-text-stroke: 1px #fff;
+        color: transparent;
+        letter-spacing: 0.4vw;
+
+    }
+
+    .page3-right-part1 h1 {
+        display: none;
+    }
+
+    .page3-right-part2 h1 {
+        transform: rotate(0);
+        font-size: 30vw;
+    }
+
+    .circle-3 {
+        background-color: rgb(124, 36, 22);
+        width: 100px;
+        height: 100px;
+    }
+
+    .circle-3 h5 {
+        font-size: 2vw;
+    }
+
+    /* page4 */
+
+    .page4 .text1 {
+        position: absolute;
+        top: 26%;
+        right: 40%;
+        width: 100%;
+        height: 20%;
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    .page4 .text1 h1 {
+        color: white;
+        font-size: 10vw;
+        font-family: gilroy;
+        letter-spacing: 0.4vw;
+    }
+
+    .page4 .text2 {
+        position: absolute;
+        top: 26%;
+        right: 40%;
+        width: 100%;
+        height: 20%;
+        display: flex;
+        justify-content: flex-end;
+        z-index: 20;
+    }
+
+    .page4 .text2 h1 {
+        font-size: 10vw;
+        font-family: gilroy;
+        -webkit-text-stroke: 1px #fff;
+        color: transparent;
+        letter-spacing: 0.4vw;
+
+    }
+
+    .page4-right-part1 h1 {
+        display: none;
+    }
+
+    .page4-right-part2 h1 {
+        transform: rotate(0);
+        font-size: 30vw;
+    }
+
+    .circle-4 {
+        background-color: rgb(142, 125, 53);
+        width: 100px;
+        height: 100px;
+    }
+
+    .circle-4 h5 {
+        font-size: 2vw;
+    }
+
+
+    /* page5 */
+
+    .page5 .text1 {
+        position: absolute;
+        top: 26%;
+        right: 30%;
+        width: 100%;
+        height: 20%;
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    .page5 .text1 h1 {
+        color: white;
+        font-size: 10vw;
+        font-family: gilroy;
+        letter-spacing: 0.4vw;
+    }
+
+    .page5 .text2 {
+        position: absolute;
+        top: 26%;
+        right: 30%;
+        width: 100%;
+        height: 20%;
+        display: flex;
+        justify-content: flex-end;
+        z-index: 20;
+    }
+
+    .page5 .text2 h1 {
+        font-size: 10vw;
+        font-family: gilroy;
+        -webkit-text-stroke: 1px #fff;
+        color: transparent;
+        letter-spacing: 0.4vw;
+
+    }
+
+    .page5-right-part1 h1 {
+        display: none;
+    }
+
+    .page5-right-part2 h1 {
+        transform: rotate(0);
+        font-size: 28vw;
+    }
+
+    .circle-5 {
+        background-color: rgb(202, 4, 41);
+        width: 100px;
+        height: 100px;
+    }
+
+    .circle-5 h5 {
+        font-size: 2vw;
+    }
+
+
+
+    /* page6 */
+
+    .page6 .text1 {
+        position: absolute;
+        top: 26%;
+        right: 30%;
+        width: 100%;
+        height: 20%;
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    .page6 .text1 h1 {
+        color: white;
+        font-size: 10vw;
+        font-family: gilroy;
+        letter-spacing: 0.4vw;
+    }
+
+    .page6 .text2 {
+        position: absolute;
+        top: 26%;
+        right: 30%;
+        width: 100%;
+        height: 20%;
+        display: flex;
+        justify-content: flex-end;
+        z-index: 20;
+    }
+
+    .page6 .text2 h1 {
+        font-size: 10vw;
+        font-family: gilroy;
+        -webkit-text-stroke: 1px #fff;
+        color: transparent;
+        letter-spacing: 0.4vw;
+
+    }
+
+    .page6-right-part1 h1 {
+        display: none;
+    }
+
+    .page6-right-part2 h1 {
+        transform: rotate(0);
+        font-size: 30vw;
+    }
+
+    .circle-6 {
+        background-color: rgb(214, 192, 37);
+        width: 100px;
+        height: 100px;
+    }
+
+    .circle-6 h5 {
+        font-size: 2vw;
+    }
+
+    .page7-child h1 {
+        font-size: 15vw;
+    }
+
+    .page8 h1 {
+        font-size: 15vw;
+
+    }
+
+    .line {
+        width: 70%;
+    }
+
+    .footer p {
+        font-size: 3vw;
+    }
+}
+
+@media (min-width:601px) and (max-width:1100px) {
+    section h1 {
+        font-size: 15vw;
+    }
+    section h3 {
+        margin-top: 5vw;
+    }
+
+    section h3 span {
+        font-size: 2vw;
+        letter-spacing: 0.1vw;
+
+    }
+
+    section p {
+        width: 90vw;
+        font-size: 3vw;
+        margin-top: 2vw;
+    }
+
+    .page2 .text1 ,.page3 .text1, .page4 .text1, .page5 .text1, .page6 .text1{
+        position: absolute;
+        top: 25%;
+        right: 40%;
+        width: 100%;
+        height: 20%;
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    .page2 .text1 h1 {
+        color: white;
+        font-size: 13vw;
+        font-family: gilroy;
+        letter-spacing: 0.4vw;
+    }
+
+    .page2 .text2, .page3 .text2 , .page4 .text2,.page5 .text2 ,.page6 .text2{
+        position: absolute;
+        top: 25%;
+        right: 40%;
+        width: 100%;
+        height: 20%;
+        display: flex;
+        justify-content: flex-end;
+        z-index: 20;
+    }
+
+    .page2 .text2 h1 {
+        font-size: 13vw;
+        font-family: gilroy;
+        -webkit-text-stroke: 1px #fff;
+        color: transparent;
+        letter-spacing: 0.4vw;
+
+    }
+    .line {
+        width: 60%;
+    }
+}
